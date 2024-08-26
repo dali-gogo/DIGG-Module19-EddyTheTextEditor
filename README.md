@@ -6,7 +6,7 @@ The purpose of this challenge was to build a text editor that runs in the browse
 
 ## Links
 - URL of the GitHub repository that contains the code: https://github.com/dali-gogo/DIGG-Module19-EddyTheTextEditor
-- URL of the deployed application: dali-gogo.github.io/DIGG-Module19-EddyTheTextEditor
+- URL of the deployed application: https://eddythetexteditor.onrender.com
 
 ## User Story
 AS A developer
