@@ -1,4 +1,4 @@
-// Import methods to save and get data from the indexedDB database in './database.js'
+// Imported methods to save and get data from the indexedDB database in './database.js'
 import { getDb, putDb } from './database';
 import { header } from './header';
 
